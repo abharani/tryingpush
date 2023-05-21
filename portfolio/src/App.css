@@ -1,0 +1,11 @@
+
+.Container{
+    position: fixed;
+}
+.skill-card-img{
+    width: 500px;
+    height: 1280;
+}
+.pos-ctr{
+    margin: 0 auto;
+}
